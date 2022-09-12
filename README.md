@@ -1,5 +1,5 @@
 <h1><p align="center">Welcome friend 👋, I am Kennie 😄: he/him</p></h1>
-<p align="center">![My GitHub Profile image](https://avatars.githubusercontent.com/u/32939546?v=4)</p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/32939546?v=4" alt="photo"/></p>
 
 <h3><p align="center">Web2 and Web3 Developer</p></h3>
 <ul>
