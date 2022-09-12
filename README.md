@@ -22,7 +22,16 @@
 
 📫You can connect with me on my twitter page <a href="https://twitter.com/kennie_larkson">kennie_larkson</a>
 
+---
 
+### :zap: My Recent Activity
+
+<!--START_SECTION:activity-->
+
+          
+<!--END_SECTION:activity-->
+
+---
 
 
 <!--
