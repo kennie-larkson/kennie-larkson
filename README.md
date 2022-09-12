@@ -1,6 +1,6 @@
 <h1><p align="center">Welcome friend 👋, I am Kennie 😄: he/him</p></h1>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/32939546?v=4" alt="photo"/> </p>
-<p align="center">Web2 and Web3 Developer</p></h3>
+<p align="center">Open Source Enthusiast</p></h3>
 <p align="center"><img 
    src="https://github-readme-stats.vercel.app/api?username=kennie-larkson&show_icons=true&theme=tokyonight" 
 /></p>
