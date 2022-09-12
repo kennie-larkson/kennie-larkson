@@ -1,4 +1,4 @@
-### Hi there geeks 👋
+<h1><p align="center">Welcome friend 👋, I am Kennie 😄</p></h1>
 
 <!--
 **kennie-larkson/kennie-larkson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
