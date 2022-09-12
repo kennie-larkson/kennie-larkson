@@ -28,7 +28,6 @@
 
 ### :zap: My Recent Activity
 
-<!--START_SECTION:activity-->
 
           
 
