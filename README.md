@@ -1,6 +1,10 @@
 <h1><p align="center">Welcome friend 👋, I am Kennie 😄: he/him</p></h1>
-<p align="center"><img src="https://avatars.githubusercontent.com/u/32939546?v=4" alt="photo"/></p>
-
+<p align="center"><img src="https://avatars.githubusercontent.com/u/32939546?v=4" alt="photo"/> </p>
+<p align="center"><img 
+   src="https://github-readme-stats.vercel.app/api?username=kennie-larkson&show_icons=true&theme=tokyonight" 
+/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kennie-larkson&repo=nextjs-blog&show_owner=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kennie-larkson&repo=express-eb-deploy&show_owner=true"/><p>
 <h3><p align="center">Web2 and Web3 Developer</p></h3>
 <ul>
   <li>🔭 I am currently working on some <strong>web2</strong> projects</li>
@@ -10,6 +14,8 @@
 </ul>
 
 <h4>📫 <i>You can connect with me on my twitter page <a href="https://twitter.com/kennie_larkson">kennie_larkson</a></i></h4>
+
+
 
 <!--
 **kennie-larkson/kennie-larkson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
