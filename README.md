@@ -10,6 +10,7 @@
    src="https://github-readme-stats.vercel.app/api/top-langs?username=kennie-larkson&layout=compact" 
 /></p>
 
+---
 <ul>
    
   <p align="center"><li>🔭 I am currently working on some <strong>web2</strong> projects</li></p>
@@ -20,6 +21,7 @@
 </ul>
 
 
+---
 📫You can connect with me on my twitter page <a href="https://twitter.com/kennie_larkson">kennie_larkson</a>
 
 ---
