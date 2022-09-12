@@ -4,8 +4,8 @@
 <p align="center"><img 
    src="https://github-readme-stats.vercel.app/api?username=kennie-larkson&show_icons=true&theme=tokyonight" 
 /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kennie-larkson&repo=nextjs-blog&show_owner=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kennie-larkson&repo=express-eb-deploy&show_owner=true"/><p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kennie-larkson&repo=LinkFree&show_owner=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kennie-larkson&repo=hacktoberfest-practice&show_owner=true"/><p>
 <p align="center"><img 
    src="https://github-readme-stats.vercel.app/api/top-langs?username=kennie-larkson&layout=compact" 
 /></p>
