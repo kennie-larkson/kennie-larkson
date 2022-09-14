@@ -28,11 +28,11 @@
 
 ### :zap: My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1690](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1690) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. 🗣 Commented on [#1724](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1724) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-3. ❌ Closed PR [#1724](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1724) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-4. 🗣 Commented on [#1690](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1690) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 🗣 Commented on [#1690](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1690) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#10](https://github.com/kennie-larkson/nextjs-blog/pull/10) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
+2. 💪 Opened PR [#10](https://github.com/kennie-larkson/nextjs-blog/pull/10) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
+3. 🗣 Commented on [#1690](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1690) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#1724](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1724) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+5. ❌ Closed PR [#1724](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1724) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 
