@@ -28,11 +28,11 @@
 
 ### :zap: My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/kennie-larkson/nextjs-blog/pull/11) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
-2. 💪 Opened PR [#11](https://github.com/kennie-larkson/nextjs-blog/pull/11) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
-3. 🎉 Merged PR [#10](https://github.com/kennie-larkson/nextjs-blog/pull/10) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
-4. 💪 Opened PR [#10](https://github.com/kennie-larkson/nextjs-blog/pull/10) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
-5. 🗣 Commented on [#1690](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1690) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#12](https://github.com/kennie-larkson/nextjs-blog/pull/12) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
+2. 💪 Opened PR [#12](https://github.com/kennie-larkson/nextjs-blog/pull/12) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
+3. 🎉 Merged PR [#11](https://github.com/kennie-larkson/nextjs-blog/pull/11) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
+4. 💪 Opened PR [#11](https://github.com/kennie-larkson/nextjs-blog/pull/11) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
+5. 🎉 Merged PR [#10](https://github.com/kennie-larkson/nextjs-blog/pull/10) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
 <!--END_SECTION:activity-->
 
 
