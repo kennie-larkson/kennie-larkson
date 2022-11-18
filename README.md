@@ -28,11 +28,11 @@
 
 ### :zap: My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kennie-larkson/teesas/pull/2) in [kennie-larkson/teesas](https://github.com/kennie-larkson/teesas)
-2. 🎉 Merged PR [#1](https://github.com/kennie-larkson/teesas/pull/1) in [kennie-larkson/teesas](https://github.com/kennie-larkson/teesas)
-3. 🎉 Merged PR [#4](https://github.com/kennie-larkson/typescript/pull/4) in [kennie-larkson/typescript](https://github.com/kennie-larkson/typescript)
-4. ❗️ Closed issue [#1](https://github.com/kennie-larkson/nextjs-blog/issues/1) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
-5. 🎉 Merged PR [#15](https://github.com/kennie-larkson/nextjs-blog/pull/15) in [kennie-larkson/nextjs-blog](https://github.com/kennie-larkson/nextjs-blog)
+1. 🎉 Merged PR [#3](https://github.com/kennie-larkson/weblog/pull/3) in [kennie-larkson/weblog](https://github.com/kennie-larkson/weblog)
+2. 💪 Opened PR [#3](https://github.com/kennie-larkson/weblog/pull/3) in [kennie-larkson/weblog](https://github.com/kennie-larkson/weblog)
+3. 🎉 Merged PR [#2](https://github.com/kennie-larkson/teesas/pull/2) in [kennie-larkson/teesas](https://github.com/kennie-larkson/teesas)
+4. 🎉 Merged PR [#1](https://github.com/kennie-larkson/teesas/pull/1) in [kennie-larkson/teesas](https://github.com/kennie-larkson/teesas)
+5. 🎉 Merged PR [#4](https://github.com/kennie-larkson/typescript/pull/4) in [kennie-larkson/typescript](https://github.com/kennie-larkson/typescript)
 <!--END_SECTION:activity-->
 
 
