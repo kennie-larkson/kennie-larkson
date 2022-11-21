@@ -28,11 +28,11 @@
 
 ### :zap: My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/kennie-larkson/weblog/pull/3) in [kennie-larkson/weblog](https://github.com/kennie-larkson/weblog)
-2. 💪 Opened PR [#3](https://github.com/kennie-larkson/weblog/pull/3) in [kennie-larkson/weblog](https://github.com/kennie-larkson/weblog)
-3. 🎉 Merged PR [#2](https://github.com/kennie-larkson/teesas/pull/2) in [kennie-larkson/teesas](https://github.com/kennie-larkson/teesas)
-4. 🎉 Merged PR [#1](https://github.com/kennie-larkson/teesas/pull/1) in [kennie-larkson/teesas](https://github.com/kennie-larkson/teesas)
-5. 🎉 Merged PR [#4](https://github.com/kennie-larkson/typescript/pull/4) in [kennie-larkson/typescript](https://github.com/kennie-larkson/typescript)
+1. 🎉 Merged PR [#4](https://github.com/kennie-larkson/weblog/pull/4) in [kennie-larkson/weblog](https://github.com/kennie-larkson/weblog)
+2. 💪 Opened PR [#4](https://github.com/kennie-larkson/weblog/pull/4) in [kennie-larkson/weblog](https://github.com/kennie-larkson/weblog)
+3. 🎉 Merged PR [#3](https://github.com/kennie-larkson/weblog/pull/3) in [kennie-larkson/weblog](https://github.com/kennie-larkson/weblog)
+4. 💪 Opened PR [#3](https://github.com/kennie-larkson/weblog/pull/3) in [kennie-larkson/weblog](https://github.com/kennie-larkson/weblog)
+5. 🎉 Merged PR [#2](https://github.com/kennie-larkson/teesas/pull/2) in [kennie-larkson/teesas](https://github.com/kennie-larkson/teesas)
 <!--END_SECTION:activity-->
 
 
